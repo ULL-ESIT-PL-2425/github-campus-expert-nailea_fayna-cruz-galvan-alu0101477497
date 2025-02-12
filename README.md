@@ -1,9 +1,9 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=18164014)
 # Github Campus Expert 
 
-- Nombre 
-- Apellidos 
-- aluXXXX
+- Nailea Fayna
+- Cruz Galván
+- alu0101477497
 
 ## Rellenar el cuestionario GitHub-Alu del campus virtual y recibir el correo confirmándolo
 
@@ -20,3 +20,4 @@
 ## Solicitar el GitHub Backpack
 
 ![github backpack](docs/backpack.png)
+![github backpack email](docs/backpack_2.png)
